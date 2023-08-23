@@ -1,0 +1,14 @@
+.btn-submit {
+    background-color: #352F44;
+    color: #FFF;
+    width: 100%;
+}
+
+/* .notes-container {
+    border: 1px solid #505050;
+    border-radius: 5px;
+} */
+
+.note-card {
+    padding: 2rem;
+}
