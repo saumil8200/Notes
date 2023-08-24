@@ -25,6 +25,7 @@ addNoteButton.addEventListener("click", function () {
         noteCard.classList.add("col-md-6");
         noteCard.innerHTML = `
             <h2>${title}</h2>
+            <hr>
             <p>${description}</p>
         `;
 
